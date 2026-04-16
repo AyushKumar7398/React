@@ -1,0 +1,13 @@
+
+.ludo{
+     /* margin-left: 20px;
+     margin-right: 20px;*/
+     margin-top: 15px; 
+     height: 50px;
+     width:  50px;
+     border: 2px solid black;
+     text-align: center;
+      justify-self: center;
+      border-radius: 10px;
+      
+}

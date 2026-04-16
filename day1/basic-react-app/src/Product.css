@@ -1,0 +1,19 @@
+*{  
+    align-content: center;
+}
+.Product{
+   
+    align-content: center;
+    border: 1px solid white;
+    display: flex;
+    
+    align-items: center
+}
+.Text{
+    margin-left: 20px;
+   padding: 0;
+}
+#h5{
+    margin-top: -10px;
+    
+}

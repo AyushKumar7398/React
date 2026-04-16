@@ -1,0 +1,24 @@
+*{
+    justify-content: center;
+}
+.card{
+    text-align: center;   
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-left: 20px;
+    width: 300px;
+    
+}
+.price{
+    justify-content: center;
+    display: flex;
+    background-color: goldenrod;
+    width: 100%;
+     border-bottom-left-radius: 15px;
+     border-bottom-right-radius: 15px;
+}
+.old{
+     
+    text-decoration: line-through;
+    margin-right:10px ;
+}
